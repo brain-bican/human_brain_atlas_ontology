@@ -11,10 +11,10 @@
      xmlns:terms="http://purl.org/dc/terms/"
      xmlns:oboInOwl="http://www.geneontology.org/formats/oboInOwl#">
     <owl:Ontology rdf:about="https://purl.brain-bican.org/ontology/hbao/hbao-simple-non-classified.owl">
-        <owl:versionIRI rdf:resource="https://purl.brain-bican.org/ontology/hbao/releases/2024-07-11/hbao-simple-non-classified.owl"/>
+        <owl:versionIRI rdf:resource="https://purl.brain-bican.org/ontology/hbao/releases/2025-02-10/hbao-simple-non-classified.owl"/>
         <terms:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/>
         <terms:title>Human Brain Atlas Ontology</terms:title>
-        <owl:versionInfo>2024-07-11</owl:versionInfo>
+        <owl:versionInfo>2025-02-10</owl:versionInfo>
     </owl:Ontology>
     
 
@@ -33985,6 +33985,9 @@
     <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0000409">
         <skos:prefLabel>serous gland</skos:prefLabel>
     </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0000410">
+        <skos:prefLabel>bronchial mucosa</skos:prefLabel>
+    </rdf:Description>
     <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0000414">
         <skos:prefLabel>mucous gland</skos:prefLabel>
     </rdf:Description>
@@ -34390,9 +34393,6 @@
     <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0001169">
         <skos:prefLabel>wall of large intestine</skos:prefLabel>
     </rdf:Description>
-    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0001170">
-        <skos:prefLabel>mesentery of small intestine</skos:prefLabel>
-    </rdf:Description>
     <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0001171">
         <skos:prefLabel>portal lobule</skos:prefLabel>
     </rdf:Description>
@@ -34633,6 +34633,9 @@
     <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0001586">
         <skos:prefLabel>internal jugular vein</skos:prefLabel>
     </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0001592">
+        <skos:prefLabel>bronchial vein</skos:prefLabel>
+    </rdf:Description>
     <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0001593">
         <skos:prefLabel>venous plexus</skos:prefLabel>
     </rdf:Description>
@@ -34794,6 +34797,9 @@
     </rdf:Description>
     <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0001723">
         <skos:prefLabel>tongue</skos:prefLabel>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0001725">
+        <skos:prefLabel>cranial synchondrosis</skos:prefLabel>
     </rdf:Description>
     <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0001726">
         <skos:prefLabel>papilla of tongue</skos:prefLabel>
@@ -34999,6 +35005,9 @@
     <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0001900">
         <skos:prefLabel>ventral thalamus</skos:prefLabel>
     </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0001901">
+        <skos:prefLabel>epithelium of trachea</skos:prefLabel>
+    </rdf:Description>
     <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0001902">
         <skos:prefLabel>epithelium of small intestine</skos:prefLabel>
     </rdf:Description>
@@ -35128,6 +35137,12 @@
     <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0001954">
         <skos:prefLabel>Ammon&apos;s horn</skos:prefLabel>
     </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0001956">
+        <skos:prefLabel>cartilage of bronchus</skos:prefLabel>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0001957">
+        <skos:prefLabel>submucosa of bronchus</skos:prefLabel>
+    </rdf:Description>
     <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0001965">
         <skos:prefLabel>substantia nigra pars compacta</skos:prefLabel>
     </rdf:Description>
@@ -35179,6 +35194,9 @@
     <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0001988">
         <skos:prefLabel>feces</skos:prefLabel>
     </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0001994">
+        <skos:prefLabel>hyaline cartilage tissue</skos:prefLabel>
+    </rdf:Description>
     <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0001997">
         <skos:prefLabel>olfactory epithelium</skos:prefLabel>
     </rdf:Description>
@@ -35211,6 +35229,9 @@
     </rdf:Description>
     <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0002029">
         <skos:prefLabel>epithelium of gall bladder</skos:prefLabel>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0002031">
+        <skos:prefLabel>epithelium of bronchus</skos:prefLabel>
     </rdf:Description>
     <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0002034">
         <skos:prefLabel>suprachiasmatic nucleus</skos:prefLabel>
@@ -35307,9 +35328,6 @@
     </rdf:Description>
     <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0002094">
         <skos:prefLabel>interventricular septum</skos:prefLabel>
-    </rdf:Description>
-    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0002095">
-        <skos:prefLabel>mesentery</skos:prefLabel>
     </rdf:Description>
     <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0002097">
         <skos:prefLabel>skin of body</skos:prefLabel>
@@ -35464,6 +35482,9 @@
     <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0002168">
         <skos:prefLabel>left lung</skos:prefLabel>
     </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0002185">
+        <skos:prefLabel>bronchus</skos:prefLabel>
+    </rdf:Description>
     <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0002190">
         <skos:prefLabel>subcutaneous adipose tissue</skos:prefLabel>
     </rdf:Description>
@@ -35491,6 +35512,9 @@
     <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0002201">
         <skos:prefLabel>vasculature of trunk</skos:prefLabel>
     </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0002202">
+        <skos:prefLabel>submucosa of trachea</skos:prefLabel>
+    </rdf:Description>
     <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0002203">
         <skos:prefLabel>vasculature of eye</skos:prefLabel>
     </rdf:Description>
@@ -35508,6 +35532,9 @@
     </rdf:Description>
     <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0002213">
         <skos:prefLabel>cartilaginous joint</skos:prefLabel>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0002215">
+        <skos:prefLabel>synchondrosis</skos:prefLabel>
     </rdf:Description>
     <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0002216">
         <skos:prefLabel>symphysis</skos:prefLabel>
@@ -35584,9 +35611,6 @@
     <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0002294">
         <skos:prefLabel>biliary system</skos:prefLabel>
     </rdf:Description>
-    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0002296">
-        <skos:prefLabel>dorsal mesentery</skos:prefLabel>
-    </rdf:Description>
     <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0002298">
         <skos:prefLabel>brainstem</skos:prefLabel>
     </rdf:Description>
@@ -35649,6 +35673,9 @@
     </rdf:Description>
     <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0002336">
         <skos:prefLabel>corpus callosum</skos:prefLabel>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0002338">
+        <skos:prefLabel>lamina propria of bronchus</skos:prefLabel>
     </rdf:Description>
     <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0002342">
         <skos:prefLabel>neural crest</skos:prefLabel>
@@ -36847,6 +36874,9 @@
     <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0003123">
         <skos:prefLabel>pharyngeal arch artery 6</skos:prefLabel>
     </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0003126">
+        <skos:prefLabel>trachea</skos:prefLabel>
+    </rdf:Description>
     <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0003128">
         <skos:prefLabel>cranium</skos:prefLabel>
     </rdf:Description>
@@ -36895,17 +36925,8 @@
     <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0003278">
         <skos:prefLabel>skeleton of lower jaw</skos:prefLabel>
     </rdf:Description>
-    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0003281">
-        <skos:prefLabel>mesentery of stomach</skos:prefLabel>
-    </rdf:Description>
-    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0003282">
-        <skos:prefLabel>mesentery of heart</skos:prefLabel>
-    </rdf:Description>
-    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0003283">
-        <skos:prefLabel>mesentery of oesophagus</skos:prefLabel>
-    </rdf:Description>
-    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0003284">
-        <skos:prefLabel>mesentery of midgut</skos:prefLabel>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0003279">
+        <skos:prefLabel>endothelium of trachea</skos:prefLabel>
     </rdf:Description>
     <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0003288">
         <skos:prefLabel>meninx of midbrain</skos:prefLabel>
@@ -37051,6 +37072,9 @@
     <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0003386">
         <skos:prefLabel>smooth muscle of eye</skos:prefLabel>
     </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0003387">
+        <skos:prefLabel>smooth muscle of trachea</skos:prefLabel>
+    </rdf:Description>
     <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0003388">
         <skos:prefLabel>mesothelium of pericardial cavity</skos:prefLabel>
     </rdf:Description>
@@ -37059,21 +37083,6 @@
     </rdf:Description>
     <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0003390">
         <skos:prefLabel>mesothelium of pleural cavity</skos:prefLabel>
-    </rdf:Description>
-    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0003393">
-        <skos:prefLabel>mesentery of urinary system</skos:prefLabel>
-    </rdf:Description>
-    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0003394">
-        <skos:prefLabel>mesentery of hindgut</skos:prefLabel>
-    </rdf:Description>
-    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0003395">
-        <skos:prefLabel>mesentery of rectum</skos:prefLabel>
-    </rdf:Description>
-    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0003396">
-        <skos:prefLabel>mesentery of colon</skos:prefLabel>
-    </rdf:Description>
-    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0003397">
-        <skos:prefLabel>mesentery of duodenum</skos:prefLabel>
     </rdf:Description>
     <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0003406">
         <skos:prefLabel>cartilage of respiratory system</skos:prefLabel>
@@ -37186,6 +37195,9 @@
     <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0003504">
         <skos:prefLabel>respiratory system blood vessel</skos:prefLabel>
     </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0003505">
+        <skos:prefLabel>trachea blood vessel</skos:prefLabel>
+    </rdf:Description>
     <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0003509">
         <skos:prefLabel>arterial blood vessel</skos:prefLabel>
     </rdf:Description>
@@ -37285,6 +37297,9 @@
     <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0003570">
         <skos:prefLabel>respiratory system connective tissue</skos:prefLabel>
     </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0003571">
+        <skos:prefLabel>trachea connective tissue</skos:prefLabel>
+    </rdf:Description>
     <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0003580">
         <skos:prefLabel>lower respiratory tract connective tissue</skos:prefLabel>
     </rdf:Description>
@@ -37297,6 +37312,9 @@
     <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0003586">
         <skos:prefLabel>trunk connective tissue</skos:prefLabel>
     </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0003592">
+        <skos:prefLabel>bronchus connective tissue</skos:prefLabel>
+    </rdf:Description>
     <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0003593">
         <skos:prefLabel>thoracic cavity connective tissue</skos:prefLabel>
     </rdf:Description>
@@ -37308,6 +37326,9 @@
     </rdf:Description>
     <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0003603">
         <skos:prefLabel>lower respiratory tract cartilage</skos:prefLabel>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0003604">
+        <skos:prefLabel>trachea cartilage</skos:prefLabel>
     </rdf:Description>
     <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0003605">
         <skos:prefLabel>eye skin gland</skos:prefLabel>
@@ -37329,6 +37350,12 @@
     </rdf:Description>
     <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0003615">
         <skos:prefLabel>lung elastic tissue</skos:prefLabel>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0003616">
+        <skos:prefLabel>bronchus elastic tissue</skos:prefLabel>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0003617">
+        <skos:prefLabel>trachea elastic tissue</skos:prefLabel>
     </rdf:Description>
     <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0003618">
         <skos:prefLabel>aorta tunica media</skos:prefLabel>
@@ -37792,6 +37819,9 @@
     <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0004240">
         <skos:prefLabel>gallbladder smooth muscle</skos:prefLabel>
     </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0004242">
+        <skos:prefLabel>bronchus smooth muscle</skos:prefLabel>
+    </rdf:Description>
     <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0004246">
         <skos:prefLabel>outflow tract smooth muscle</skos:prefLabel>
     </rdf:Description>
@@ -38242,9 +38272,6 @@
     <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0004852">
         <skos:prefLabel>cardiovascular system endothelium</skos:prefLabel>
     </rdf:Description>
-    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0004854">
-        <skos:prefLabel>gastrointestinal system mesentery</skos:prefLabel>
-    </rdf:Description>
     <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0004857">
         <skos:prefLabel>skeletal muscle connective tissue</skos:prefLabel>
     </rdf:Description>
@@ -38472,6 +38499,9 @@
     </rdf:Description>
     <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0005194">
         <skos:prefLabel>thoracic vein</skos:prefLabel>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0005203">
+        <skos:prefLabel>trachea gland</skos:prefLabel>
     </rdf:Description>
     <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0005204">
         <skos:prefLabel>larynx submucosa gland</skos:prefLabel>
@@ -38752,9 +38782,6 @@
     <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0005598">
         <skos:prefLabel>trunk somite</skos:prefLabel>
     </rdf:Description>
-    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0005602">
-        <skos:prefLabel>dorsal mesogastrium</skos:prefLabel>
-    </rdf:Description>
     <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0005604">
         <skos:prefLabel>extrahepatic part of hepatic duct</skos:prefLabel>
     </rdf:Description>
@@ -38815,9 +38842,6 @@
     <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0005673">
         <skos:prefLabel>left lung endothelium</skos:prefLabel>
     </rdf:Description>
-    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0005685">
-        <skos:prefLabel>midgut dorsal mesentery</skos:prefLabel>
-    </rdf:Description>
     <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0005687">
         <skos:prefLabel>orbitosphenoid cartilage element</skos:prefLabel>
     </rdf:Description>
@@ -38835,12 +38859,6 @@
     </rdf:Description>
     <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0005702">
         <skos:prefLabel>optic eminence mesenchyme</skos:prefLabel>
-    </rdf:Description>
-    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0005711">
-        <skos:prefLabel>foregut duodenum mesentery</skos:prefLabel>
-    </rdf:Description>
-    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0005712">
-        <skos:prefLabel>midgut duodenum mesentery</skos:prefLabel>
     </rdf:Description>
     <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0005720">
         <skos:prefLabel>hindbrain venous system</skos:prefLabel>
@@ -39334,6 +39352,9 @@
     <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0006815">
         <skos:prefLabel>areolar connective tissue</skos:prefLabel>
     </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0006833">
+        <skos:prefLabel>lumen of trachea</skos:prefLabel>
+    </rdf:Description>
     <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0006834">
         <skos:prefLabel>uterus or analog</skos:prefLabel>
     </rdf:Description>
@@ -39484,6 +39505,9 @@
     <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0007193">
         <skos:prefLabel>orbital gyrus</skos:prefLabel>
     </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0007196">
+        <skos:prefLabel>tracheobronchial tree</skos:prefLabel>
+    </rdf:Description>
     <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0007204">
         <skos:prefLabel>brachiocephalic vasculature</skos:prefLabel>
     </rdf:Description>
@@ -39540,6 +39564,9 @@
     </rdf:Description>
     <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0007251">
         <skos:prefLabel>preoptic nucleus</skos:prefLabel>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0007267">
+        <skos:prefLabel>trachea pre-cartilage rings</skos:prefLabel>
     </rdf:Description>
     <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0007269">
         <skos:prefLabel>pectoral appendage musculature</skos:prefLabel>
@@ -39790,9 +39817,6 @@
     <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0007823">
         <skos:prefLabel>appendage girdle region</skos:prefLabel>
     </rdf:Description>
-    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0007826">
-        <skos:prefLabel>peritoneal mesentery</skos:prefLabel>
-    </rdf:Description>
     <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0007827">
         <skos:prefLabel>external nose</skos:prefLabel>
     </rdf:Description>
@@ -39858,6 +39882,9 @@
     </rdf:Description>
     <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0008346">
         <skos:prefLabel>duodenal epithelium</skos:prefLabel>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0008397">
+        <skos:prefLabel>tracheobronchial epithelium</skos:prefLabel>
     </rdf:Description>
     <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0008522">
         <skos:prefLabel>nasal muscle</skos:prefLabel>
@@ -40021,9 +40048,6 @@
     <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0009482">
         <skos:prefLabel>associated mesenchyme of foregut-midgut junction</skos:prefLabel>
     </rdf:Description>
-    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0009483">
-        <skos:prefLabel>mesentery of foregut-midgut junction</skos:prefLabel>
-    </rdf:Description>
     <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0009494">
         <skos:prefLabel>pharyngeal arch mesenchymal region</skos:prefLabel>
     </rdf:Description>
@@ -40038,6 +40062,9 @@
     </rdf:Description>
     <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0009503">
         <skos:prefLabel>mesenchyme of hindgut</skos:prefLabel>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0009505">
+        <skos:prefLabel>mesenchyme of trachea</skos:prefLabel>
     </rdf:Description>
     <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0009521">
         <skos:prefLabel>anal membrane endodermal component</skos:prefLabel>
@@ -40141,6 +40168,15 @@
     <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0009643">
         <skos:prefLabel>central tegmental tract</skos:prefLabel>
     </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0009644">
+        <skos:prefLabel>trachea non-cartilage connective tissue</skos:prefLabel>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0009652">
+        <skos:prefLabel>bronchus basement membrane</skos:prefLabel>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0009653">
+        <skos:prefLabel>trachea basement membrane</skos:prefLabel>
+    </rdf:Description>
     <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0009657">
         <skos:prefLabel>artery of lip</skos:prefLabel>
     </rdf:Description>
@@ -40152,9 +40188,6 @@
     </rdf:Description>
     <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0009663">
         <skos:prefLabel>telencephalic nucleus</skos:prefLabel>
-    </rdf:Description>
-    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0009664">
-        <skos:prefLabel>gut mesentery</skos:prefLabel>
     </rdf:Description>
     <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0009669">
         <skos:prefLabel>embryonic cloacal lumen</skos:prefLabel>
@@ -40878,6 +40911,9 @@
     </rdf:Description>
     <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0012075">
         <skos:prefLabel>replacement bone</skos:prefLabel>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0012082">
+        <skos:prefLabel>bronchial lumen</skos:prefLabel>
     </rdf:Description>
     <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0012172">
         <skos:prefLabel>stomach primordium</skos:prefLabel>
@@ -42319,6 +42355,9 @@
     <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0035763">
         <skos:prefLabel>cavity of cardiac chamber</skos:prefLabel>
     </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0035767">
+        <skos:prefLabel>intrapulmonary bronchus</skos:prefLabel>
+    </rdf:Description>
     <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_0035786">
         <skos:prefLabel>layer of CA1 field</skos:prefLabel>
     </rdf:Description>
@@ -42637,6 +42676,9 @@
     <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_8410024">
         <skos:prefLabel>intestinal junction</skos:prefLabel>
     </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_8410043">
+        <skos:prefLabel>bronchus submucosal gland</skos:prefLabel>
+    </rdf:Description>
     <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_8410048">
         <skos:prefLabel>venule of colon</skos:prefLabel>
     </rdf:Description>
@@ -42676,6 +42718,9 @@
     <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_8450002">
         <skos:prefLabel>excretory system</skos:prefLabel>
     </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_8450003">
+        <skos:prefLabel>embryonic craniocervical region</skos:prefLabel>
+    </rdf:Description>
     <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UBERON_8480001">
         <skos:prefLabel>capillary of brain</skos:prefLabel>
     </rdf:Description>
@@ -42713,5 +42758,5 @@
 
 
 
-<!-- Generated by the OWL API (version 4.5.26) https://github.com/owlcs/owlapi -->
+<!-- Generated by the OWL API (version 4.5.29) https://github.com/owlcs/owlapi -->
 
