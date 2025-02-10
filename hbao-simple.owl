@@ -12,6 +12,8 @@
      xmlns:oboInOwl="http://www.geneontology.org/formats/oboInOwl#">
     <owl:Ontology rdf:about="https://purl.brain-bican.org/ontology/hbao/hbao-simple.owl">
         <owl:versionIRI rdf:resource="https://purl.brain-bican.org/ontology/hbao/releases/2025-02-10/hbao-simple.owl"/>
+        <obo:IAO_0000700 rdf:resource="https://purl.brain-bican.org/ontology/hbao/HBA_4005"/>
+        <terms:description>An application ontology built by combining ontologised versions of the Allen Institute Human Brain Atlas (HBA) StructureGraph mapped to Uberon.</terms:description>
         <terms:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/>
         <terms:title>Human Brain Atlas Ontology</terms:title>
         <owl:versionInfo>2025-02-10</owl:versionInfo>
@@ -30,9 +32,21 @@
     
 
 
+    <!-- http://purl.obolibrary.org/obo/IAO_0000028 -->
+
+    <owl:AnnotationProperty rdf:about="http://purl.obolibrary.org/obo/IAO_0000028"/>
+    
+
+
     <!-- http://purl.obolibrary.org/obo/IAO_0000589 -->
 
     <owl:AnnotationProperty rdf:about="http://purl.obolibrary.org/obo/IAO_0000589"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/IAO_0000700 -->
+
+    <owl:AnnotationProperty rdf:about="http://purl.obolibrary.org/obo/IAO_0000700"/>
     
 
 

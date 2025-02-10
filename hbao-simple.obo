@@ -4,7 +4,9 @@ idspace: oboInOwl http://www.geneontology.org/formats/oboInOwl#
 idspace: skos http://www.w3.org/2004/02/skos/core# 
 idspace: terms http://purl.org/dc/terms/ 
 ontology: https://purl.brain-bican.org/ontology/hbao/hbao-simple.owl
+property_value: IAO:0000700 HBA:4005
 property_value: owl:versionInfo "2025-02-10" xsd:string
+property_value: terms:description "An application ontology built by combining ontologised versions of the Allen Institute Human Brain Atlas (HBA) StructureGraph mapped to Uberon." xsd:string
 property_value: terms:license https://creativecommons.org/licenses/by/4.0/
 property_value: terms:title "Human Brain Atlas Ontology" xsd:string
 
