@@ -13,9 +13,9 @@
         "val" : "Human Brain Atlas Ontology"
       }, {
         "pred" : "http://www.w3.org/2002/07/owl#versionInfo",
-        "val" : "2024-07-11"
+        "val" : "2025-02-10"
       } ],
-      "version" : "https://purl.brain-bican.org/ontology/hbao/releases/2024-07-11/hbao-base.json"
+      "version" : "https://purl.brain-bican.org/ontology/hbao/releases/2025-02-10/hbao-base.json"
     },
     "nodes" : [ {
       "id" : "http://purl.obolibrary.org/obo/NCBITaxon_1",
@@ -1413,6 +1413,15 @@
         } ]
       }
     }, {
+      "id" : "http://purl.obolibrary.org/obo/UBERON_0000410",
+      "type" : "CLASS",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.w3.org/2004/02/skos/core#prefLabel",
+          "val" : "bronchial mucosa"
+        } ]
+      }
+    }, {
       "id" : "http://purl.obolibrary.org/obo/UBERON_0000414",
       "type" : "CLASS",
       "meta" : {
@@ -2628,15 +2637,6 @@
         } ]
       }
     }, {
-      "id" : "http://purl.obolibrary.org/obo/UBERON_0001170",
-      "type" : "CLASS",
-      "meta" : {
-        "basicPropertyValues" : [ {
-          "pred" : "http://www.w3.org/2004/02/skos/core#prefLabel",
-          "val" : "mesentery of small intestine"
-        } ]
-      }
-    }, {
       "id" : "http://purl.obolibrary.org/obo/UBERON_0001171",
       "type" : "CLASS",
       "meta" : {
@@ -3357,6 +3357,15 @@
         } ]
       }
     }, {
+      "id" : "http://purl.obolibrary.org/obo/UBERON_0001592",
+      "type" : "CLASS",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.w3.org/2004/02/skos/core#prefLabel",
+          "val" : "bronchial vein"
+        } ]
+      }
+    }, {
       "id" : "http://purl.obolibrary.org/obo/UBERON_0001593",
       "type" : "CLASS",
       "meta" : {
@@ -3840,6 +3849,15 @@
         "basicPropertyValues" : [ {
           "pred" : "http://www.w3.org/2004/02/skos/core#prefLabel",
           "val" : "tongue"
+        } ]
+      }
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/UBERON_0001725",
+      "type" : "CLASS",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.w3.org/2004/02/skos/core#prefLabel",
+          "val" : "cranial synchondrosis"
         } ]
       }
     }, {
@@ -4455,6 +4473,15 @@
         } ]
       }
     }, {
+      "id" : "http://purl.obolibrary.org/obo/UBERON_0001901",
+      "type" : "CLASS",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.w3.org/2004/02/skos/core#prefLabel",
+          "val" : "epithelium of trachea"
+        } ]
+      }
+    }, {
       "id" : "http://purl.obolibrary.org/obo/UBERON_0001902",
       "type" : "CLASS",
       "meta" : {
@@ -4842,6 +4869,24 @@
         } ]
       }
     }, {
+      "id" : "http://purl.obolibrary.org/obo/UBERON_0001956",
+      "type" : "CLASS",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.w3.org/2004/02/skos/core#prefLabel",
+          "val" : "cartilage of bronchus"
+        } ]
+      }
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/UBERON_0001957",
+      "type" : "CLASS",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.w3.org/2004/02/skos/core#prefLabel",
+          "val" : "submucosa of bronchus"
+        } ]
+      }
+    }, {
       "id" : "http://purl.obolibrary.org/obo/UBERON_0001965",
       "type" : "CLASS",
       "meta" : {
@@ -4995,6 +5040,15 @@
         } ]
       }
     }, {
+      "id" : "http://purl.obolibrary.org/obo/UBERON_0001994",
+      "type" : "CLASS",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.w3.org/2004/02/skos/core#prefLabel",
+          "val" : "hyaline cartilage tissue"
+        } ]
+      }
+    }, {
       "id" : "http://purl.obolibrary.org/obo/UBERON_0001997",
       "type" : "CLASS",
       "meta" : {
@@ -5091,6 +5145,15 @@
         "basicPropertyValues" : [ {
           "pred" : "http://www.w3.org/2004/02/skos/core#prefLabel",
           "val" : "epithelium of gall bladder"
+        } ]
+      }
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/UBERON_0002031",
+      "type" : "CLASS",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.w3.org/2004/02/skos/core#prefLabel",
+          "val" : "epithelium of bronchus"
         } ]
       }
     }, {
@@ -5379,15 +5442,6 @@
         "basicPropertyValues" : [ {
           "pred" : "http://www.w3.org/2004/02/skos/core#prefLabel",
           "val" : "interventricular septum"
-        } ]
-      }
-    }, {
-      "id" : "http://purl.obolibrary.org/obo/UBERON_0002095",
-      "type" : "CLASS",
-      "meta" : {
-        "basicPropertyValues" : [ {
-          "pred" : "http://www.w3.org/2004/02/skos/core#prefLabel",
-          "val" : "mesentery"
         } ]
       }
     }, {
@@ -5850,6 +5904,15 @@
         } ]
       }
     }, {
+      "id" : "http://purl.obolibrary.org/obo/UBERON_0002185",
+      "type" : "CLASS",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.w3.org/2004/02/skos/core#prefLabel",
+          "val" : "bronchus"
+        } ]
+      }
+    }, {
       "id" : "http://purl.obolibrary.org/obo/UBERON_0002190",
       "type" : "CLASS",
       "meta" : {
@@ -5931,6 +5994,15 @@
         } ]
       }
     }, {
+      "id" : "http://purl.obolibrary.org/obo/UBERON_0002202",
+      "type" : "CLASS",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.w3.org/2004/02/skos/core#prefLabel",
+          "val" : "submucosa of trachea"
+        } ]
+      }
+    }, {
       "id" : "http://purl.obolibrary.org/obo/UBERON_0002203",
       "type" : "CLASS",
       "meta" : {
@@ -5982,6 +6054,15 @@
         "basicPropertyValues" : [ {
           "pred" : "http://www.w3.org/2004/02/skos/core#prefLabel",
           "val" : "cartilaginous joint"
+        } ]
+      }
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/UBERON_0002215",
+      "type" : "CLASS",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.w3.org/2004/02/skos/core#prefLabel",
+          "val" : "synchondrosis"
         } ]
       }
     }, {
@@ -6210,15 +6291,6 @@
         } ]
       }
     }, {
-      "id" : "http://purl.obolibrary.org/obo/UBERON_0002296",
-      "type" : "CLASS",
-      "meta" : {
-        "basicPropertyValues" : [ {
-          "pred" : "http://www.w3.org/2004/02/skos/core#prefLabel",
-          "val" : "dorsal mesentery"
-        } ]
-      }
-    }, {
       "id" : "http://purl.obolibrary.org/obo/UBERON_0002298",
       "type" : "CLASS",
       "meta" : {
@@ -6405,6 +6477,15 @@
         "basicPropertyValues" : [ {
           "pred" : "http://www.w3.org/2004/02/skos/core#prefLabel",
           "val" : "corpus callosum"
+        } ]
+      }
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/UBERON_0002338",
+      "type" : "CLASS",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.w3.org/2004/02/skos/core#prefLabel",
+          "val" : "lamina propria of bronchus"
         } ]
       }
     }, {
@@ -9999,6 +10080,15 @@
         } ]
       }
     }, {
+      "id" : "http://purl.obolibrary.org/obo/UBERON_0003126",
+      "type" : "CLASS",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.w3.org/2004/02/skos/core#prefLabel",
+          "val" : "trachea"
+        } ]
+      }
+    }, {
       "id" : "http://purl.obolibrary.org/obo/UBERON_0003128",
       "type" : "CLASS",
       "meta" : {
@@ -10143,39 +10233,12 @@
         } ]
       }
     }, {
-      "id" : "http://purl.obolibrary.org/obo/UBERON_0003281",
+      "id" : "http://purl.obolibrary.org/obo/UBERON_0003279",
       "type" : "CLASS",
       "meta" : {
         "basicPropertyValues" : [ {
           "pred" : "http://www.w3.org/2004/02/skos/core#prefLabel",
-          "val" : "mesentery of stomach"
-        } ]
-      }
-    }, {
-      "id" : "http://purl.obolibrary.org/obo/UBERON_0003282",
-      "type" : "CLASS",
-      "meta" : {
-        "basicPropertyValues" : [ {
-          "pred" : "http://www.w3.org/2004/02/skos/core#prefLabel",
-          "val" : "mesentery of heart"
-        } ]
-      }
-    }, {
-      "id" : "http://purl.obolibrary.org/obo/UBERON_0003283",
-      "type" : "CLASS",
-      "meta" : {
-        "basicPropertyValues" : [ {
-          "pred" : "http://www.w3.org/2004/02/skos/core#prefLabel",
-          "val" : "mesentery of oesophagus"
-        } ]
-      }
-    }, {
-      "id" : "http://purl.obolibrary.org/obo/UBERON_0003284",
-      "type" : "CLASS",
-      "meta" : {
-        "basicPropertyValues" : [ {
-          "pred" : "http://www.w3.org/2004/02/skos/core#prefLabel",
-          "val" : "mesentery of midgut"
+          "val" : "endothelium of trachea"
         } ]
       }
     }, {
@@ -10611,6 +10674,15 @@
         } ]
       }
     }, {
+      "id" : "http://purl.obolibrary.org/obo/UBERON_0003387",
+      "type" : "CLASS",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.w3.org/2004/02/skos/core#prefLabel",
+          "val" : "smooth muscle of trachea"
+        } ]
+      }
+    }, {
       "id" : "http://purl.obolibrary.org/obo/UBERON_0003388",
       "type" : "CLASS",
       "meta" : {
@@ -10635,51 +10707,6 @@
         "basicPropertyValues" : [ {
           "pred" : "http://www.w3.org/2004/02/skos/core#prefLabel",
           "val" : "mesothelium of pleural cavity"
-        } ]
-      }
-    }, {
-      "id" : "http://purl.obolibrary.org/obo/UBERON_0003393",
-      "type" : "CLASS",
-      "meta" : {
-        "basicPropertyValues" : [ {
-          "pred" : "http://www.w3.org/2004/02/skos/core#prefLabel",
-          "val" : "mesentery of urinary system"
-        } ]
-      }
-    }, {
-      "id" : "http://purl.obolibrary.org/obo/UBERON_0003394",
-      "type" : "CLASS",
-      "meta" : {
-        "basicPropertyValues" : [ {
-          "pred" : "http://www.w3.org/2004/02/skos/core#prefLabel",
-          "val" : "mesentery of hindgut"
-        } ]
-      }
-    }, {
-      "id" : "http://purl.obolibrary.org/obo/UBERON_0003395",
-      "type" : "CLASS",
-      "meta" : {
-        "basicPropertyValues" : [ {
-          "pred" : "http://www.w3.org/2004/02/skos/core#prefLabel",
-          "val" : "mesentery of rectum"
-        } ]
-      }
-    }, {
-      "id" : "http://purl.obolibrary.org/obo/UBERON_0003396",
-      "type" : "CLASS",
-      "meta" : {
-        "basicPropertyValues" : [ {
-          "pred" : "http://www.w3.org/2004/02/skos/core#prefLabel",
-          "val" : "mesentery of colon"
-        } ]
-      }
-    }, {
-      "id" : "http://purl.obolibrary.org/obo/UBERON_0003397",
-      "type" : "CLASS",
-      "meta" : {
-        "basicPropertyValues" : [ {
-          "pred" : "http://www.w3.org/2004/02/skos/core#prefLabel",
-          "val" : "mesentery of duodenum"
         } ]
       }
     }, {
@@ -11016,6 +11043,15 @@
         } ]
       }
     }, {
+      "id" : "http://purl.obolibrary.org/obo/UBERON_0003505",
+      "type" : "CLASS",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.w3.org/2004/02/skos/core#prefLabel",
+          "val" : "trachea blood vessel"
+        } ]
+      }
+    }, {
       "id" : "http://purl.obolibrary.org/obo/UBERON_0003509",
       "type" : "CLASS",
       "meta" : {
@@ -11313,6 +11349,15 @@
         } ]
       }
     }, {
+      "id" : "http://purl.obolibrary.org/obo/UBERON_0003571",
+      "type" : "CLASS",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.w3.org/2004/02/skos/core#prefLabel",
+          "val" : "trachea connective tissue"
+        } ]
+      }
+    }, {
       "id" : "http://purl.obolibrary.org/obo/UBERON_0003580",
       "type" : "CLASS",
       "meta" : {
@@ -11349,6 +11394,15 @@
         } ]
       }
     }, {
+      "id" : "http://purl.obolibrary.org/obo/UBERON_0003592",
+      "type" : "CLASS",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.w3.org/2004/02/skos/core#prefLabel",
+          "val" : "bronchus connective tissue"
+        } ]
+      }
+    }, {
       "id" : "http://purl.obolibrary.org/obo/UBERON_0003593",
       "type" : "CLASS",
       "meta" : {
@@ -11382,6 +11436,15 @@
         "basicPropertyValues" : [ {
           "pred" : "http://www.w3.org/2004/02/skos/core#prefLabel",
           "val" : "lower respiratory tract cartilage"
+        } ]
+      }
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/UBERON_0003604",
+      "type" : "CLASS",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.w3.org/2004/02/skos/core#prefLabel",
+          "val" : "trachea cartilage"
         } ]
       }
     }, {
@@ -11445,6 +11508,24 @@
         "basicPropertyValues" : [ {
           "pred" : "http://www.w3.org/2004/02/skos/core#prefLabel",
           "val" : "lung elastic tissue"
+        } ]
+      }
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/UBERON_0003616",
+      "type" : "CLASS",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.w3.org/2004/02/skos/core#prefLabel",
+          "val" : "bronchus elastic tissue"
+        } ]
+      }
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/UBERON_0003617",
+      "type" : "CLASS",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.w3.org/2004/02/skos/core#prefLabel",
+          "val" : "trachea elastic tissue"
         } ]
       }
     }, {
@@ -12834,6 +12915,15 @@
         } ]
       }
     }, {
+      "id" : "http://purl.obolibrary.org/obo/UBERON_0004242",
+      "type" : "CLASS",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.w3.org/2004/02/skos/core#prefLabel",
+          "val" : "bronchus smooth muscle"
+        } ]
+      }
+    }, {
       "id" : "http://purl.obolibrary.org/obo/UBERON_0004246",
       "type" : "CLASS",
       "meta" : {
@@ -14184,15 +14274,6 @@
         } ]
       }
     }, {
-      "id" : "http://purl.obolibrary.org/obo/UBERON_0004854",
-      "type" : "CLASS",
-      "meta" : {
-        "basicPropertyValues" : [ {
-          "pred" : "http://www.w3.org/2004/02/skos/core#prefLabel",
-          "val" : "gastrointestinal system mesentery"
-        } ]
-      }
-    }, {
       "id" : "http://purl.obolibrary.org/obo/UBERON_0004857",
       "type" : "CLASS",
       "meta" : {
@@ -14874,6 +14955,15 @@
         "basicPropertyValues" : [ {
           "pred" : "http://www.w3.org/2004/02/skos/core#prefLabel",
           "val" : "thoracic vein"
+        } ]
+      }
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/UBERON_0005203",
+      "type" : "CLASS",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.w3.org/2004/02/skos/core#prefLabel",
+          "val" : "trachea gland"
         } ]
       }
     }, {
@@ -15714,15 +15804,6 @@
         } ]
       }
     }, {
-      "id" : "http://purl.obolibrary.org/obo/UBERON_0005602",
-      "type" : "CLASS",
-      "meta" : {
-        "basicPropertyValues" : [ {
-          "pred" : "http://www.w3.org/2004/02/skos/core#prefLabel",
-          "val" : "dorsal mesogastrium"
-        } ]
-      }
-    }, {
       "id" : "http://purl.obolibrary.org/obo/UBERON_0005604",
       "type" : "CLASS",
       "meta" : {
@@ -15903,15 +15984,6 @@
         } ]
       }
     }, {
-      "id" : "http://purl.obolibrary.org/obo/UBERON_0005685",
-      "type" : "CLASS",
-      "meta" : {
-        "basicPropertyValues" : [ {
-          "pred" : "http://www.w3.org/2004/02/skos/core#prefLabel",
-          "val" : "midgut dorsal mesentery"
-        } ]
-      }
-    }, {
       "id" : "http://purl.obolibrary.org/obo/UBERON_0005687",
       "type" : "CLASS",
       "meta" : {
@@ -15963,24 +16035,6 @@
         "basicPropertyValues" : [ {
           "pred" : "http://www.w3.org/2004/02/skos/core#prefLabel",
           "val" : "optic eminence mesenchyme"
-        } ]
-      }
-    }, {
-      "id" : "http://purl.obolibrary.org/obo/UBERON_0005711",
-      "type" : "CLASS",
-      "meta" : {
-        "basicPropertyValues" : [ {
-          "pred" : "http://www.w3.org/2004/02/skos/core#prefLabel",
-          "val" : "foregut duodenum mesentery"
-        } ]
-      }
-    }, {
-      "id" : "http://purl.obolibrary.org/obo/UBERON_0005712",
-      "type" : "CLASS",
-      "meta" : {
-        "basicPropertyValues" : [ {
-          "pred" : "http://www.w3.org/2004/02/skos/core#prefLabel",
-          "val" : "midgut duodenum mesentery"
         } ]
       }
     }, {
@@ -17460,6 +17514,15 @@
         } ]
       }
     }, {
+      "id" : "http://purl.obolibrary.org/obo/UBERON_0006833",
+      "type" : "CLASS",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.w3.org/2004/02/skos/core#prefLabel",
+          "val" : "lumen of trachea"
+        } ]
+      }
+    }, {
       "id" : "http://purl.obolibrary.org/obo/UBERON_0006834",
       "type" : "CLASS",
       "meta" : {
@@ -17910,6 +17973,15 @@
         } ]
       }
     }, {
+      "id" : "http://purl.obolibrary.org/obo/UBERON_0007196",
+      "type" : "CLASS",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.w3.org/2004/02/skos/core#prefLabel",
+          "val" : "tracheobronchial tree"
+        } ]
+      }
+    }, {
       "id" : "http://purl.obolibrary.org/obo/UBERON_0007204",
       "type" : "CLASS",
       "meta" : {
@@ -18078,6 +18150,15 @@
         "basicPropertyValues" : [ {
           "pred" : "http://www.w3.org/2004/02/skos/core#prefLabel",
           "val" : "preoptic nucleus"
+        } ]
+      }
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/UBERON_0007267",
+      "type" : "CLASS",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.w3.org/2004/02/skos/core#prefLabel",
+          "val" : "trachea pre-cartilage rings"
         } ]
       }
     }, {
@@ -18828,15 +18909,6 @@
         } ]
       }
     }, {
-      "id" : "http://purl.obolibrary.org/obo/UBERON_0007826",
-      "type" : "CLASS",
-      "meta" : {
-        "basicPropertyValues" : [ {
-          "pred" : "http://www.w3.org/2004/02/skos/core#prefLabel",
-          "val" : "peritoneal mesentery"
-        } ]
-      }
-    }, {
       "id" : "http://purl.obolibrary.org/obo/UBERON_0007827",
       "type" : "CLASS",
       "meta" : {
@@ -19032,6 +19104,15 @@
         "basicPropertyValues" : [ {
           "pred" : "http://www.w3.org/2004/02/skos/core#prefLabel",
           "val" : "duodenal epithelium"
+        } ]
+      }
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/UBERON_0008397",
+      "type" : "CLASS",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.w3.org/2004/02/skos/core#prefLabel",
+          "val" : "tracheobronchial epithelium"
         } ]
       }
     }, {
@@ -19521,15 +19602,6 @@
         } ]
       }
     }, {
-      "id" : "http://purl.obolibrary.org/obo/UBERON_0009483",
-      "type" : "CLASS",
-      "meta" : {
-        "basicPropertyValues" : [ {
-          "pred" : "http://www.w3.org/2004/02/skos/core#prefLabel",
-          "val" : "mesentery of foregut-midgut junction"
-        } ]
-      }
-    }, {
       "id" : "http://purl.obolibrary.org/obo/UBERON_0009494",
       "type" : "CLASS",
       "meta" : {
@@ -19572,6 +19644,15 @@
         "basicPropertyValues" : [ {
           "pred" : "http://www.w3.org/2004/02/skos/core#prefLabel",
           "val" : "mesenchyme of hindgut"
+        } ]
+      }
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/UBERON_0009505",
+      "type" : "CLASS",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.w3.org/2004/02/skos/core#prefLabel",
+          "val" : "mesenchyme of trachea"
         } ]
       }
     }, {
@@ -19881,6 +19962,33 @@
         } ]
       }
     }, {
+      "id" : "http://purl.obolibrary.org/obo/UBERON_0009644",
+      "type" : "CLASS",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.w3.org/2004/02/skos/core#prefLabel",
+          "val" : "trachea non-cartilage connective tissue"
+        } ]
+      }
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/UBERON_0009652",
+      "type" : "CLASS",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.w3.org/2004/02/skos/core#prefLabel",
+          "val" : "bronchus basement membrane"
+        } ]
+      }
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/UBERON_0009653",
+      "type" : "CLASS",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.w3.org/2004/02/skos/core#prefLabel",
+          "val" : "trachea basement membrane"
+        } ]
+      }
+    }, {
       "id" : "http://purl.obolibrary.org/obo/UBERON_0009657",
       "type" : "CLASS",
       "meta" : {
@@ -19914,15 +20022,6 @@
         "basicPropertyValues" : [ {
           "pred" : "http://www.w3.org/2004/02/skos/core#prefLabel",
           "val" : "telencephalic nucleus"
-        } ]
-      }
-    }, {
-      "id" : "http://purl.obolibrary.org/obo/UBERON_0009664",
-      "type" : "CLASS",
-      "meta" : {
-        "basicPropertyValues" : [ {
-          "pred" : "http://www.w3.org/2004/02/skos/core#prefLabel",
-          "val" : "gut mesentery"
         } ]
       }
     }, {
@@ -22092,6 +22191,15 @@
         "basicPropertyValues" : [ {
           "pred" : "http://www.w3.org/2004/02/skos/core#prefLabel",
           "val" : "replacement bone"
+        } ]
+      }
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/UBERON_0012082",
+      "type" : "CLASS",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.w3.org/2004/02/skos/core#prefLabel",
+          "val" : "bronchial lumen"
         } ]
       }
     }, {
@@ -26415,6 +26523,15 @@
         } ]
       }
     }, {
+      "id" : "http://purl.obolibrary.org/obo/UBERON_0035767",
+      "type" : "CLASS",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.w3.org/2004/02/skos/core#prefLabel",
+          "val" : "intrapulmonary bronchus"
+        } ]
+      }
+    }, {
       "id" : "http://purl.obolibrary.org/obo/UBERON_0035786",
       "type" : "CLASS",
       "meta" : {
@@ -27369,6 +27486,15 @@
         } ]
       }
     }, {
+      "id" : "http://purl.obolibrary.org/obo/UBERON_8410043",
+      "type" : "CLASS",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.w3.org/2004/02/skos/core#prefLabel",
+          "val" : "bronchus submucosal gland"
+        } ]
+      }
+    }, {
       "id" : "http://purl.obolibrary.org/obo/UBERON_8410048",
       "type" : "CLASS",
       "meta" : {
@@ -27486,6 +27612,15 @@
         } ]
       }
     }, {
+      "id" : "http://purl.obolibrary.org/obo/UBERON_8450003",
+      "type" : "CLASS",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.w3.org/2004/02/skos/core#prefLabel",
+          "val" : "embryonic craniocervical region"
+        } ]
+      }
+    }, {
       "id" : "http://purl.obolibrary.org/obo/UBERON_8480001",
       "type" : "CLASS",
       "meta" : {
@@ -27585,17 +27720,8 @@
         } ]
       }
     }, {
-      "id" : "http://purl.org/dc/terms/description",
-      "lbl" : "description",
-      "type" : "PROPERTY"
-    }, {
-      "id" : "http://purl.org/dc/terms/license",
-      "lbl" : "license",
-      "type" : "PROPERTY"
-    }, {
-      "id" : "http://purl.org/dc/terms/title",
-      "lbl" : "title",
-      "type" : "PROPERTY"
+      "id" : "https://purl.brain-bican.org/ontology/HBAO_0000000",
+      "type" : "CLASS"
     }, {
       "id" : "https://purl.brain-bican.org/ontology/hbao/HBA_10142",
       "lbl" : "piriform cortex",
@@ -60566,6 +60692,45 @@
           "val" : "choroid plexus of the fourth ventricle  ( human )"
         } ]
       }
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/BFO_0000050",
+      "type" : "PROPERTY",
+      "propertyType" : "OBJECT"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/IAO_0000589",
+      "type" : "PROPERTY",
+      "propertyType" : "ANNOTATION"
+    }, {
+      "id" : "http://purl.org/dc/elements/1.1/type",
+      "type" : "PROPERTY",
+      "propertyType" : "ANNOTATION"
+    }, {
+      "id" : "http://purl.org/dc/terms/description",
+      "lbl" : "description",
+      "type" : "PROPERTY",
+      "propertyType" : "ANNOTATION"
+    }, {
+      "id" : "http://purl.org/dc/terms/license",
+      "lbl" : "license",
+      "type" : "PROPERTY",
+      "propertyType" : "ANNOTATION"
+    }, {
+      "id" : "http://purl.org/dc/terms/title",
+      "lbl" : "title",
+      "type" : "PROPERTY",
+      "propertyType" : "ANNOTATION"
+    }, {
+      "id" : "http://www.geneontology.org/formats/oboInOwl#hasDbXref",
+      "type" : "PROPERTY",
+      "propertyType" : "ANNOTATION"
+    }, {
+      "id" : "http://www.geneontology.org/formats/oboInOwl#hasExactSynonym",
+      "type" : "PROPERTY",
+      "propertyType" : "ANNOTATION"
+    }, {
+      "id" : "http://www.w3.org/2004/02/skos/core#prefLabel",
+      "type" : "PROPERTY",
+      "propertyType" : "ANNOTATION"
     } ],
     "edges" : [ {
       "sub" : "https://purl.brain-bican.org/ontology/hbao/HBA_10142",

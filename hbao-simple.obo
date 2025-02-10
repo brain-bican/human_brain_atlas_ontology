@@ -1,7 +1,10 @@
 format-version: 1.2
-data-version: https://purl.brain-bican.org/ontology/hbao/releases/2024-07-11/hbao-simple.owl
+data-version: https://purl.brain-bican.org/ontology/hbao/releases/2025-02-10/hbao-simple.owl
+idspace: oboInOwl http://www.geneontology.org/formats/oboInOwl# 
+idspace: skos http://www.w3.org/2004/02/skos/core# 
+idspace: terms http://purl.org/dc/terms/ 
 ontology: https://purl.brain-bican.org/ontology/hbao/hbao-simple.owl
-property_value: http://purl.org/dc/terms/license https://creativecommons.org/licenses/by/4.0/
-property_value: http://purl.org/dc/terms/title "Human Brain Atlas Ontology" xsd:string
-property_value: owl:versionInfo "2024-07-11" xsd:string
+property_value: owl:versionInfo "2025-02-10" xsd:string
+property_value: terms:license https://creativecommons.org/licenses/by/4.0/
+property_value: terms:title "Human Brain Atlas Ontology" xsd:string
 
